@@ -15,6 +15,7 @@
     "test": "cd test && codeceptjs run"
   },
   "devDependencies": {
+    "@types/webrtc": "0.0.23",
     "codeceptjs": "^1.4.2",
     "expect.js": "*",
     "grunt": "^0.4.5",
