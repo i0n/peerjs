@@ -33,7 +33,7 @@
     "opencollective": "^1.0.3",
     "opencollective-postinstall": "^2.0.0",
     "reliable": "git+https://github.com/michelle/reliable.git",
-    "webrtc-adapter": "^6.3.2"
+    "webrtc-adapter": "^6.4.0"
   },
   "collective": {
     "type": "opencollective",
