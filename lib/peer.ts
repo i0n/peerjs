@@ -33,7 +33,7 @@ export function Peer(id, options): void {
     },
     options
   );
-  options.key = "peerjs";
+  // options.key = "peerjs";
   this.options = options;
   // Detect relative URL host.
   if (options.host === "/") {
